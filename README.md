@@ -16,15 +16,18 @@ Purpose of the project is to deliver:
 
 ## Results
 
+To view the output of this dynamic webpage we need to enter values into the textbox like Enter Date, Once we type values press enter we can see the results.
+Here are some examples of how to see the results,
+
 The results of this projects with the images:
 
-* By giving the date value in the textbox :
+* By giving the date value in the textbox so all the data related to the entered date will be displayed :
 ![Date Filter](https://github.com/rachanamule/UFOs/blob/d9ebbcc471e25fcb12f81726e0921307bffacbc7/static/images/date_filter.png)
 
-* By giving Date and State values : 
+* By giving Date and State values so all the data related to date and state will be displayed : 
 ![Date and State Values](https://github.com/rachanamule/UFOs/blob/d9ebbcc471e25fcb12f81726e0921307bffacbc7/static/images/date_and_state_filter.png)
 
-* By giving shape value :
+* By giving shape value so all the data related to shape will be displayed :
 ![Shape Value](https://github.com/rachanamule/UFOs/blob/d9ebbcc471e25fcb12f81726e0921307bffacbc7/static/images/shape_filter.png)
 
 
